@@ -1,3 +1,11 @@
+# Laboratorio
+app.py
+chat_local.py
+equipo.py
+resumen_laboratorio.md
+multi-agentes/
+
+# Python
 venv/
 __pycache__/
 *.pyc
